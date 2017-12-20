@@ -1,0 +1,22 @@
+{
+  "name": "egghead-state-monad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "01-index": "node ./01-index.js",
+    "02-index": "node ./02-index.js",
+    "03-index": "node ./03-index.js",
+    "04-index": "node ./04-index.js",
+    "05-index": "node ./05-index.js",
+    "06-index": "node ./06-index.js",
+    "07-index": "node ./07-index.js",
+    "08-index": "node ./08-index.js",
+    "09-index": "node ./09-index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crocks": "^0.8.1"
+  }
+}
